@@ -81,7 +81,7 @@ graph TD
 ### Fixed-Scope Packages
 
 - **AI Readiness Audit (2–4 weeks):** Feasibility score, prioritized use cases, and technical roadmap before you build.
-- **90-Day AI Agent MVP (12 weeks):** Delivery of a production-ready AI agent with guaranteed fixed scope and zero
+- **30-Day AI Agent MVP (4 weeks):** Delivery of a production-ready AI agent with guaranteed fixed scope and zero
   surprise charges.
 - **AI Integration Sprint (4–6 weeks):** Integrating models and pipelines into your existing systems.
 - **AI Workflow Automation Audit (2–3 weeks):** Bottleneck mapping and ROI projections.
