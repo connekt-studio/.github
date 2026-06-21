@@ -11,7 +11,7 @@ products at scale.**
   <a href="https://riverborn.com"><img src="https://img.shields.io/badge/Location-Bangladesh%20%2F%20Global-0d2b22?style=flat-square&logo=googlemaps&logoColor=d4f53c" alt="Location" /></a>
   <a href="https://riverborn.com"><img src="https://img.shields.io/badge/Scale-100K%2B%20Users%20Served-0d2b22?style=flat-square&logo=dynamic-common&logoColor=d4f53c" alt="Scale" /></a>
   <a href="https://riverborn.com"><img src="https://img.shields.io/badge/Portfolio-10%2B%20Live%20Products-0d2b22?style=flat-square&logo=rocket&logoColor=d4f53c" alt="Portfolio" /></a>
-  <a href="https://riverborn.com"><img src="https://img.shields.io/badge/Team-15%20AI%20Engineers-0d2b22?style=flat-square&logo=teamspeak&logoColor=d4f53c" alt="Team" /></a>
+  <a href="https://riverborn.com"><img src="https://img.shields.io/badge/Team-10+%20AI%20Engineers-0d2b22?style=flat-square&logo=teamspeak&logoColor=d4f53c" alt="Team" /></a>
 </p>
 
 **riverborn** is an AI System Development company. Based in Bangladesh with global delivery, we partner with CTOs, VPs
