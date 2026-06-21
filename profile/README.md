@@ -22,8 +22,8 @@ deploy robust, production-grade AI systems.
 
 ## ⚡ Why riverborn?
 
-> [!NOTE] **Operational, not aspirational.** The same engineering architecture we deliver to our clients powers our own
-> consumer AI products. We don't just build demos; we run high-traffic production systems serving 100K+ users every day.
+> **Operational, not aspirational.** The same engineering architecture we deliver to our clients powers our own consumer
+> AI products. We don't just build demos; we run high-traffic production systems serving 100K+ users every day.
 
 - **Dual-Market Track Record:** We operate 10+ live consumer products (e.g., Vocalo AI, PhotoFox AI). Because we are our
   own first customer, the pipelines, agents, and systems we build for you are already battle-tested under real-world
